@@ -4,6 +4,13 @@ body {
 
 h1 {
   text-align: center;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.info {
+  margin-bottom: 10px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
 }
 
 .colour-container {
@@ -17,11 +24,12 @@ h1 {
   display: flex;
   justify-content: center;
   width: 20%;
-  height: 500px;
+  height: 480px;
 }
 
 .hex-text {
   align-self: flex-end;
   font-size: 25px;
   border-radius: 5px;
+  font-family: "Ubuntu", sans-serif;
 }
