@@ -68,5 +68,3 @@ document.addEventListener("keydown", (event) => {
 });
 
 generateColour();
-
-console.log("hello");
