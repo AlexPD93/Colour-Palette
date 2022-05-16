@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+
+.colour-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.colour-box {
+  width: 20%;
+  height: 500px;
+  border: 1px solid black;
+}
