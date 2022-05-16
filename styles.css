@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 h1 {
   text-align: center;
 }
@@ -10,7 +14,14 @@ h1 {
 }
 
 .colour-box {
+  display: flex;
+  justify-content: center;
   width: 20%;
   height: 500px;
-  border: 1px solid black;
+}
+
+.hex-text {
+  align-self: flex-end;
+  font-size: 25px;
+  border-radius: 5px;
 }
