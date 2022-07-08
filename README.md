@@ -2,4 +2,4 @@
 
 A colour palette I made as a pre requisite for the Founders and Coders pre appreticeship course. 
 
-https://alexpd93.github.io/Colour-Palette/
+Find live version [here](https://alexpd93.github.io/Colour-Palette/)
